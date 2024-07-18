@@ -1,0 +1,61 @@
+﻿a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.navigation a {
+    margin-right: 15px;
+    text-align: center;
+    color: black;
+}
+
+body {
+    font-family: Monocraft;
+    font-size: 14px;
+    background: #ebf6fe;
+    text-align: justify;
+    width: 480px;
+    height: 190px;
+    position: relative;
+    top: 20px;
+    left: 500px;
+    padding-left: 20px;
+}
+
+#whydothis {
+    position: relative;
+    top: 50px;
+    left: 0px;
+}
+
+.contents {
+    position: relative;
+    top: 100px;
+    left: 0px;
+    max-width: 350px;
+    margin: 20px auto;
+    padding: 25px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+label {
+    display: block ;
+    margin-bottom: 15px;
+}
+
+button {
+    padding: 10px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }
+    

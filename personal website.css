@@ -1,0 +1,237 @@
+﻿@font-face {
+    font-family: "Roboto-Mono-Medium";
+    src: url(C:\Users\ecniv\source\repos\Portfolio\RobotoMono-Medium.ttf) format('truetype'),
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#whole-section1 {
+    position: relative;
+    top: 100px;
+    left: -400px;
+}
+
+.navigation a {
+    margin-right: 15px;
+    text-align: center;
+    color: black;
+}
+
+body {
+    font-family: Monocraft;
+    font-size: 14px;
+    background: #ebf6fe;
+    text-align: justify;
+    width: 480px;
+    height: 190px;
+    position: relative;
+    top: 20px;
+    left: 500px;
+    padding-left: 20px;
+}
+
+#skills {
+    width: 400px;
+    height: 265px;
+}
+
+.photoshop {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset 7px 7px 3px #d6e0e7, inset -7px -7px 3px #ffffff;
+    width: 120px;
+    height: 50px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.premiere {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset 7px 7px 3px #d6e0e7, inset -7px -7px 3px #ffffff;
+    width: 125px;
+    height: 50px;
+    position: relative;
+    top: -50px;
+    left: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aftereffects {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset 7px 7px 3px #d6e0e7, inset -7px -7px 3px #ffffff;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    top: -100px;
+    left: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.figma {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset 7px 7px 3px #d6e0e7, inset -7px -7px 3px #ffffff;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: -90px;
+    left: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blender {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset 7px 7px 3px #d6e0e7, inset -7px -7px 3px #ffffff;
+    width: 120px;
+    height: 50px;
+    position: relative;
+    top: -80px;
+    left: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.illustrator {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset 7px 7px 3px #d6e0e7, inset -7px -7px 3px #ffffff;
+    width: 140px;
+    height: 50px;
+    position: relative;
+    top: -190px;
+    left: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gamedesign {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset 7px 7px 3px #d6e0e7, inset -7px -7px 3px #ffffff;
+    width: 130px;
+    height: 50px;
+    position: relative;
+    top: -180px;
+    left: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.graphicdesign {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset 7px 7px 3px #d6e0e7, inset -7px -7px 3px #ffffff;
+    width: 140px;
+    height: 50px;
+    position: relative;
+    top: -230px;
+    left: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.webdesign {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset 7px 7px 3px #d6e0e7, inset -7px -7px 3px #ffffff;
+    width: 130px;
+    height: 50px;
+    position: relative;
+    top: -340px;
+    left: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#whole-section2 {
+    position: relative;
+    top: -310px;
+    left: 350px;
+}
+
+#others {
+    width: 400px;
+    height: 190px;
+}
+
+.gaming {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset -7px 7px 3px #d6e0e7, inset 7px -7px 3px #ffffff;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 0px;
+    left: -20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.miniature {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset -7px 7px 3px #d6e0e7, inset 7px -7px 3px #ffffff;
+    width: 110px;
+    height: 50px;
+    position: relative;
+    top: -50px;
+    left: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.anime {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset -7px 7px 3px #d6e0e7, inset 7px -7px 3px #ffffff;
+    width: 155px;
+    height: 50px;
+    position: relative;
+    top: -100px;
+    left: 210px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.manga {
+    border-radius: 24px;
+    background: #ebf6fe;
+    box-shadow: inset -7px 7px 3px #d6e0e7, inset 7px -7px 3px #ffffff;
+    width: 145px;
+    height: 50px;
+    position: relative;
+    top: -150px;
+    left: 375px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+Contactlayer{
+    margin-top: -100x;
+}

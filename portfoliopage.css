@@ -1,0 +1,58 @@
+﻿a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+body {
+    font-family: Monocraft;
+    font-size: 14px;
+    background: #ebf6fe;
+    text-align: left;
+    width: 480px;
+    height: 190px;
+    position: relative;
+    top: 120px;
+    left: 500px;
+    padding-left: 20px;
+}
+
+body {
+    border-radius: 33px;
+    background: linear-gradient(145deg, #d4dde5, #fbffff);
+    box-shadow: 9px 9px 9px #c1cad0, -9px -9px 9px #ffffff;
+    padding: 15px;
+    width: 450px;
+}
+
+.navigation a {
+    margin-right: 15px;
+    text-align: center;
+    color: black;
+}
+
+#education {
+    position: relative;
+    top: 20px;
+    left: 0px;
+}
+
+#pskills {
+    position: relative;
+    top: 120px;
+    left: -20px;
+}
+
+#pskills {
+    border-radius: 33px;
+    background: linear-gradient(145deg, #d4dde5, #fbffff);
+    box-shadow: 9px 9px 9px #c1cad0, -9px -9px 9px #ffffff;
+    width: 460px;
+    padding: 15px;
+}
+
+#resume {
+    position: relative;
+    top: 140px;
+    left: -20px;
+}
